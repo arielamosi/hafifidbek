@@ -1,0 +1,25 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Spaghetti Bolognese",
+            "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2017/10/ultimate-spaghetti-bolognese-41bb99a.jpg",
+            "tags": ["spaghetti", "bolognese", "pasta", "spicy"],
+            "stars": [4,5,4,4,3,2,3,4,5,5]
+        },
+        {
+            "id": 2,
+            "name": "Homemade Pizza",
+            "imgUrl": "https://www.budgetbytes.com/wp-content/uploads/2010/07/Classic-Homemade-Pizza-Dough-close.jpg",
+            "tags": ["pizza", "italian", "homemade"],
+            "stars": [3,3,3,5,1,2]
+        },
+        {
+            "id": 3,
+            "name": "Chicken Soup",
+            "imgUrl": "https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/2020_df_retail_super-easy-chicken-and-rice-soup_20247_600x600.jpg",
+            "tags": ["soup", "chicken"],
+            "stars": [4,5,4,4,1]
+        }
+    ]
+}
