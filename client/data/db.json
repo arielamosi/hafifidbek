@@ -20,6 +20,13 @@
             "imgUrl": "https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/2020_df_retail_super-easy-chicken-and-rice-soup_20247_600x600.jpg",
             "tags": ["soup", "chicken"],
             "stars": [4,5,4,4,1]
-        }
+        },
+        {
+          "id": 4,
+          "name": "Chicken Soup",
+          "imgUrl": "https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/x17/2020_df_retail_super-easy-chicken-and-rice-soup_20247_600x600.jpg",
+          "tags": ["soup", "chicken"],
+          "stars": [4,5,4,4,1]
+      }
     ]
 }
